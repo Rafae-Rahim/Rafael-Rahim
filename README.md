@@ -2,7 +2,7 @@
 #### I am Web Developer 
 ![I am Web Developer ](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/245319267_2991330951181237_8280780443970348697_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHv5MvpX24giy3ve_V0FM0FpfYdWylrLZKl9h1bKWstkpRHsOMhIGZPKl48RPoKnJq-L3wXy691kc0cPBny7cXd&_nc_ohc=jWFPOBggRs8AX981KX-&tn=-uSWSDbT0MiN1EQU&_nc_ht=scontent.fjsr11-1.fna&oh=00_AfBnc658FwNxxcFIYV1UE1NyQAsV4Cfn0ETCtgu6YlzUag&oe=6365D03A)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
 
 Skills: Python / PHP / REACT / JS / HTML / CSS
 
